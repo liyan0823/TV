@@ -1,219 +1,7 @@
-#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会-①🏆",咪咕奥运会 4K
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="ba30c5bb4558a98772f857040179339b" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV5.png\" group-title="🏆2024奥运会-①🏆",CCTV-5
-https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1002778810?profile=pass
-#EXTINF:-1 tvg-id="2c6a006ab2bfc8a8693035a4016d02c9" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV5plus.png" group-title="🏆2024奥运会-①🏆",CCTV-5+
-https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1778412076?profile=pass
-#EXTINF:-1 tvg-id="ba28add2909c9c235a82ca3a43d5bb17" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV16.png" group-title="🏆2024奥运会-①🏆",CCTV-16
-https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1387079866?profile=pass
-#EXTINF:-1 tvg-id="881b9407ce2015d885f71375209449da" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV16.png" group-title="🏆2024奥运会-①🏆",CCTV-16 4K
-https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/127146888?profile=pass
-#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会-①🏆",CCTV16-4K (ipv6)
-http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="ELTA體育-1台" tvg-name="ELTA 體育 1 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会-①🏆",ELTA奥运1台
-https://api.btbt.im/live?id=elta-oly1
-#EXTINF:-1,tvg-id="ELTA體育-2台" tvg-name="ELTA 體育 2 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会-①🏆",ELTA奥运2台
-https://api.btbt.im/live?id=elta-oly2
-#EXTINF:-1,tvg-id="ELTA體育-3台" tvg-name="ELTA 體育 3 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会-①🏆",ELTA奥运3台
-https://api.btbt.im/live?id=elta-oly3
-#EXTINF:-1,tvg-id="ELTA體育-4台" tvg-name="ELTA 體育 4 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会-①🏆",ELTA奥运4台
-https://api.btbt.im/live?id=elta-oly4
-#EXTINF:-1,tvg-id="ELTA 體育 5 台" tvg-name="ELTA 體育 5 台" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会-①🏆",ELTA奥运5台
-https://api.btbt.im/live?id=elta-oly5
-#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会-①🏆",ELTA奥运6台
-https://api.btbt.im/live?id=elta-oly6
-#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="🏆2024奥运会-①🏆",ELTA奥运7台
-https://api.btbt.im/live?id=elta-oly7
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-1" tvg-name="myTV SUPER Olympics 801" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-1.png" group-title="🏆2024奥运会-①🏆", 奧運801台
-https://tvb.mytvsuper.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-2" tvg-name="myTV SUPER Olympics 802" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-2.png" group-title="🏆2024奥运会-①🏆", 奧運802台
-https://tvb.mytvsuper.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-3" tvg-name="myTV SUPER Olympics 803" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-3.png" group-title="🏆2024奥运会-①🏆", 奧運803台
-https://tvb.mytvsuper.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-4" tvg-name="myTV SUPER Olympics 804" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-4.png" group-title="🏆2024奥运会-①🏆", 奧運804台
-https://tvb.mytvsuper.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-5" tvg-name="myTV SUPER Olympics 805" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-5.png" group-title="🏆2024奥运会-①🏆", 奧運805台
-https://tvb.mytvsuper.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-6" tvg-name="myTV SUPER Olympics 806" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-6.png" group-title="🏆2024奥运会-①🏆", 奧運806台
-https://tvb.mytvsuper.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-7" tvg-name="myTV SUPER Olympics 807" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-7.png" group-title="🏆2024奥运会-①🏆", 奧運807台
-https://tvb.mytvsuper.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-8" tvg-name="myTV SUPER Olympics 808" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-8.png" group-title="🏆2024奥运会-①🏆", 奧運808台
-https://tvb.mytvsuper.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-9" tvg-name="myTV SUPER Olympics 809" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-9.png" group-title="🏆2024奥运会-①🏆", 奧運809台
-https://tvb.mytvsuper.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-10" tvg-name="myTV SUPER Olympics 810" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-10.png" group-title="🏆2024奥运会-①🏆", 奧運810台
-https://tvb.mytvsuper.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-11" tvg-name="myTV SUPER Olympics 811" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-11.png" group-title="🏆2024奥运会-①🏆", 奧運811台
-https://tvb.mytvsuper.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-12" tvg-name="myTV SUPER Olympics 812" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-12.png" group-title="🏆2024奥运会-①🏆", 奧運812台
-https://tvb.mytvsuper.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-13" tvg-name="myTV SUPER Olympics 813" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-13.png" group-title="🏆2024奥运会-①🏆", 奧運813台
-https://tvb.mytvsuper.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-14" tvg-name="myTV SUPER Olympics 814" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-14.png" group-title="🏆2024奥运会-①🏆", 奧運814台
-https://tvb.mytvsuper.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-15" tvg-name="myTV SUPER Olympics 815" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-15.png" group-title="🏆2024奥运会-①🏆", 奧運815台
-https://tvb.mytvsuper.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-16" tvg-name="myTV SUPER Olympics 816" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-16.png" group-title="🏆2024奥运会-①🏆", 奧運816台
-https://tvb.mytvsuper.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-News" tvg-name="myTV SUPER Olympics News" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-News.png" group-title="🏆2024奥运会-①🏆", 奧運817台
-https://tvb.mytvsuper.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-https://api.btbt.im/live?id=mytvsuper-oly817
-
-
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」03:30 男子预赛A组：罗马尼亚 VS 黑山 汪粤 解说
-https://tv.iill.top/OG/27
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」03:30 男子预赛A组：罗马尼亚 VS 黑山 清流DX44
-https://tv.iill.top/OG/28
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「冲浪」04:25 🏅多项半决赛、铜牌赛、金牌赛 2024奥运会： 多项半决赛、决赛（远程解说）（闫子奇、俞晨）
-https://tv.iill.top/OG/29
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「冲浪」04:25 🏅多项半决赛、铜牌赛、金牌赛 清流DX16
-https://tv.iill.top/OG/30
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」14:30 🇨🇳女子1/4决赛：中国 VS 土耳其 解说
-https://tv.iill.top/OG/31
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」14:30 🇨🇳女子1/4决赛：中国 VS 土耳其 清流
-https://tv.iill.top/OG/32
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」15:20 女子1/4决赛 丹麦 VS 荷兰 2024奥运会：女子1/4决赛（远程解说）（徐依婷）
-https://tv.iill.top/OG/33
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」15:20 女子1/4决赛 丹麦 VS 荷兰 2024奥运会：女子1/4决赛 赛场原声
-https://tv.iill.top/OG/34
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「皮划艇静水」15:25 🇨🇳第1比赛日 李念
-https://tv.iill.top/OG/35
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「皮划艇静水」15:25 🇨🇳第1比赛日 清流
-https://tv.iill.top/OG/36
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:40 🇨🇳男女团体1/8决赛：中国男团登场 周冠达、周雨
-https://tv.iill.top/OG/37
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:40 🇨🇳男女团体1/8决赛：中国男团登场 AI乒中国 程靖淇马特
-https://tv.iill.top/OG/38
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:40 🇨🇳男女团体1/8决赛：中国男团登场 马行飞
-https://tv.iill.top/OG/39
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:40 🇨🇳男女团体1/8决赛：中国男团登场 柳昱帆
-https://tv.iill.top/OG/40
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:40 🇨🇳男女团体1/8决赛：中国男团登场 AVS3
-https://tv.iill.top/OG/41
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:40 🇨🇳男女团体1/8决赛：中国男团登场 1号台
-https://tv.iill.top/OG/42
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:40 🇨🇳男女团体1/8决赛：中国男团登场 2号台
-https://tv.iill.top/OG/43
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:40 🇨🇳男女团体1/8决赛：中国男团登场 3号台
-https://tv.iill.top/OG/44
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」15:40 🇨🇳男女团体1/8决赛：中国男团登场 4号台
-https://tv.iill.top/OG/45
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「运动攀岩」15:45 🇨🇳女子攀石和难度攀岩半决赛、男子速度赛 解说（赵玉燕、王智珣）
-https://tv.iill.top/OG/46
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「运动攀岩」15:45 🇨🇳女子攀石和难度攀岩半决赛、男子速度赛 原声
-https://tv.iill.top/OG/47
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「跳水」15:50 🇨🇳男子3米跳板预赛 钟宇峰 解说
-https://tv.iill.top/OG/48
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「跳水」15:50 🇨🇳男子3米跳板预赛 清流DX05
-https://tv.iill.top/OG/49
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「马术」15:55 🏅个人场地障碍决赛 尹少坤、李耀锋
-https://tv.iill.top/OG/50
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「马术」15:55 🏅个人场地障碍决赛 清流
-https://tv.iill.top/OG/51
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「田径」15:55 🇨🇳女子跳远资格赛等多项比赛 （远程解说）（陈晨）
-https://tv.iill.top/OG/52
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「田径」15:55 🇨🇳女子跳远资格赛等多项比赛 女子跳远资格赛下午场-A场地
-https://tv.iill.top/OG/53
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「田径」15:55 🇨🇳女子跳远资格赛等多项比赛 女子跳远资格赛下午场
-https://tv.iill.top/OG/54
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「田径」15:55 🇨🇳女子跳远资格赛等多项比赛 AVS3
-https://tv.iill.top/OG/55
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」16:50 男子1/4决赛：德国 VS 希腊 原声 赛场原声
-https://tv.iill.top/OG/56
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「摔跤」16:55 🇨🇳多项复活赛、淘汰赛 A垫王琰博 王琰博
-https://tv.iill.top/OG/57
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「摔跤」16:55 🇨🇳多项复活赛、淘汰赛 B垫吴庭申 吴庭申
-https://tv.iill.top/OG/58
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「摔跤」16:55 🇨🇳多项复活赛、淘汰赛 C垫张凌宇 张凌宇
-https://tv.iill.top/OG/59
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「摔跤」16:55 🇨🇳多项复活赛、淘汰赛 A垫
-https://tv.iill.top/OG/60
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「摔跤」16:55 🇨🇳多项复活赛、淘汰赛 B垫
-https://tv.iill.top/OG/61
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「摔跤」16:55 🇨🇳多项复活赛、淘汰赛 C垫
-https://tv.iill.top/OG/62
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「帆船」18:00 🏅🇨🇳激光级、激光雷迪尔级奖牌赛 2024奥运会：第10比赛日（远程解说）（范文硕、周自厚）
-https://tv.iill.top/OG/63
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「帆船」18:00 🏅🇨🇳激光级、激光雷迪尔级奖牌赛 2024奥运会：男子女子水翼风筝板等多项比赛 赛场原声
-https://tv.iill.top/OG/64
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「滑板」18:25 🇨🇳女子公园赛预赛 袁飞
-https://tv.iill.top/OG/65
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「滑板」18:25 🇨🇳女子公园赛预赛 原声
-https://tv.iill.top/OG/66
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」18:50 女子1/4决赛：巴西 VS 多米尼加 陈博媛
-https://tv.iill.top/OG/67
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」18:50 女子1/4决赛：巴西 VS 多米尼加 清流
-https://tv.iill.top/OG/68
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」19:20 女子1/4决赛 法国 VS 德国 2024奥运会：女子1/4决赛（远程解说）（石伟）
-https://tv.iill.top/OG/69
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」19:20 女子1/4决赛 法国 VS 德国 2024奥运会：女子1/4决赛 赛场原声
-https://tv.iill.top/OG/70
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」19:50 男子半决赛：荷兰 VS 西班牙 丁一 解说
-https://tv.iill.top/OG/71
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」19:50 男子半决赛：荷兰 VS 西班牙 清流DX40
-https://tv.iill.top/OG/72
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」19:50 女子1/4决赛：加拿大 VS 西班牙 郑好 解说
-https://tv.iill.top/OG/73
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」19:50 女子1/4决赛：加拿大 VS 西班牙 AVS3
-https://tv.iill.top/OG/74
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」19:50 女子1/4决赛：加拿大 VS 西班牙 清流DX44
-https://tv.iill.top/OG/75
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」20:15 男子1/4决赛：塞尔维亚 VS 澳大利亚 （霍楠、孙悦）
-https://tv.iill.top/OG/76
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」20:15 男子1/4决赛：塞尔维亚 VS 澳大利亚 （远程闽南语）（洪荒）
-https://tv.iill.top/OG/77
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」20:15 男子1/4决赛：塞尔维亚 VS 澳大利亚 原声
-https://tv.iill.top/OG/78
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「跳水」20:30 🏅🇨🇳女子10米跳台决赛 柳亚鹏  陈艾森 解说
-https://tv.iill.top/OG/79
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「跳水」20:30 🏅🇨🇳女子10米跳台决赛 AVS3
-https://tv.iill.top/OG/80
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「跳水」20:30 🏅🇨🇳女子10米跳台决赛 清流DX05
-https://tv.iill.top/OG/81
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女团体1/4决赛 马行飞
-https://tv.iill.top/OG/82
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女团体1/4决赛 周泽昊
-https://tv.iill.top/OG/83
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女团体1/4决赛 1号台
-https://tv.iill.top/OG/84
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」20:55 男女团体1/4决赛 2号台
-https://tv.iill.top/OG/85
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」21:25 女子1/4决赛：荷兰 VS 意大利 郑好 解说
-https://tv.iill.top/OG/86
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」21:25 女子1/4决赛：荷兰 VS 意大利 AVS3
-https://tv.iill.top/OG/87
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」21:25 女子1/4决赛：荷兰 VS 意大利 2024奥运会：女子1/4决赛
-https://tv.iill.top/OG/88
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」22:50 女子1/4决赛：美国 VS 波兰 朱羿卫
-https://tv.iill.top/OG/89
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」22:50 女子1/4决赛：美国 VS 波兰 清流
-https://tv.iill.top/OG/90
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「沙滩排球」22:50 1/4决赛 崔佳
-https://tv.iill.top/OG/91
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「沙滩排球」22:50 1/4决赛 清流
-https://tv.iill.top/OG/92
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」23:20 女子1/4决赛 匈牙利 VS 瑞典 2024奥运会：女子1/4决赛（远程高校）（刘仲钰）
-https://tv.iill.top/OG/93
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」23:20 女子1/4决赛 匈牙利 VS 瑞典 2024奥运会：女子1/4决赛 赛场原声
-https://tv.iill.top/OG/94
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「滑板」23:25 🏅女子公园赛决赛 袁飞
-https://tv.iill.top/OG/95
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「滑板」23:25 🏅女子公园赛决赛 原声
-https://tv.iill.top/OG/96
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「场地自行车」23:25 🏅🇨🇳多项资格赛、排位赛、铜牌赛及金牌赛 李陶 解说
-https://tv.iill.top/OG/97
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「场地自行车」23:25 🏅🇨🇳多项资格赛、排位赛、铜牌赛及金牌赛 清流DX13
-https://tv.iill.top/OG/98
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」23:50 男子1/4决赛：法国 VS 加拿大（王冠证）
-https://tv.iill.top/OG/99
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」23:50 男子1/4决赛：法国 VS 加拿大 原声
-https://tv.iill.top/OG/100
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」23:50 女子半决赛：美国 VS 德国 林梦鸽  刘畅 解说
-https://tv.iill.top/OG/101
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」23:50 女子半决赛：美国 VS 德国 清流DX31
-https://tv.iill.top/OG/102
-
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆", 「闭幕式」08/12 03:00 2024年巴黎奥运会 CCTV16
+https://livednow.com/migu/926881814?sign=gAAAAABmuEjVm67pAllKj_PQsEMSTacOwhnQLS4SV81_sWXZwBUChCGWbzSxX7eSZ0Krp4riZNjbuermFhwyvcmUUpOkzUhog2isXhWw9gBxLrVWb36jbyXIPfQbM86vMubYmN6qWyNskBhv7sFnd4TMmchjER4Oqiu5DLFG4Qbc5u1y9wCpDp4CoUbU3cR9LzK7ZnsWD27OUrtyFO2pkOXyYbxmNpYTuA%3D%3D
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会🏆", 「闭幕式」08/12 03:00 2024年巴黎奥运会 CCTV16
+https://tv.iill.top/OG/12
 
 #EXTINF:-1 group-title="🐉国内体育🐉",广东体育
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
@@ -231,19 +19,23 @@ http://api.52tb.xyz/info?id=413&token=20230331fbulna
 http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="🐉国内体育🐉",广东体育
 http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
-#EXTINF:-1 group-title="🐉国内体育🐉",北京体育休闲
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
+http://117.114.153.26:8180/TV00000000000000000196@HHZT
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
+http://117.114.153.26:8180/TV00000000000000000146@HHZT
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
 http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉国内体育🐉",北京体育休闲
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
 http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉国内体育🐉",北京体育休闲
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
 http://123.122.162.250:19999/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉国内体育🐉",北京体育休闲
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
 http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
-#EXTINF:-1 group-title="🐉国内体育🐉",北京体育休闲
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
 http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉国内体育🐉",北京体育休闲
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
 http://123.113.248.110:8888/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉国内体育🐉",北京体育休闲
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
 http://221.216.132.178:8118/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://epg.112114.eu.org/logo/CCTV5.png" group-title="🐉国内体育🐉",CCTV-5 体育「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
